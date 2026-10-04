@@ -1,5 +1,4 @@
 
-
 # 1. Địa chỉ email
 email = input("Nhập địa chỉ Email: ")
 
